@@ -61,7 +61,7 @@ I have already spent 1500+ working hours learning and improving the necessary pr
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Cozy application with adaptive layot implemented in strict accordance with the designer's Figma layout  |  [Shelter](https://exixixs.github.io/shelter/pages/main/) | [Shelter]((https://github.com/ExIxIxS/shelter)) | Figma, JavaScript, HTML5, CSS |
+  | Cozy application with adaptive layot implemented in strict accordance with the designer's Figma layout  |  [Shelter](https://exixixs.github.io/shelter/pages/main/) | [Shelter](https://github.com/ExIxIxS/shelter) | Figma, JavaScript, HTML5, CSS |
 
   ![Screenshot 2023-02-28 190742](https://user-images.githubusercontent.com/106703414/221941778-9ae91092-c4df-4aee-8451-2c8930a45d64.jpg)
 </details>
