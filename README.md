@@ -71,7 +71,7 @@ I have already spent 1500+ working hours learning and improving the necessary pr
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | My custom implementation of the part of lodash library in TDD workflow with unit test coverage | --- | [Unit Tests](https://github.com/ExIxIxS/unit_tests/blob/TDD-workflow)) | JavaScript, Jest |
+  | My custom implementation of the part of lodash library in TDD workflow with unit test coverage | --- | [Unit Tests](https://github.com/ExIxIxS/unit_tests/blob/TDD-workflow) | JavaScript, Jest |
 </details>
 
 <details><summary>JS Core 101</summary>
