@@ -17,7 +17,7 @@ I have already spent 1500+ hours learning and improving the necessary proficienc
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Project Management application with advanced localization and interface customization options | [PMA NG App](https://exixixs.github.io/pma/) | [PMA NG App](https://github.com/ExIxIxS/PMA_FrontEnd) | Angular, TypeScript, JavaScript, RxJS, Angular material, REST API, HTML5, SASS, Karma |
+  | Project Management application with advanced localization and interface customization options | [PMA NG App](https://exixixs.github.io/pma/) | [PMA NG App](https://github.com/ExIxIxS/PMA_FrontEnd) | Angular, TypeScript, RxJS, Angular material, REST API, HTML5, SASS, Karma |
 
   ![Screenshot 2023-02-28 175347](https://user-images.githubusercontent.com/106703414/221922652-c2ea5ea1-ffb4-4601-8bd5-7388490c94f7.jpg)
   ![Screenshot 2023-02-25 153838](https://user-images.githubusercontent.com/106703414/221362861-66f7d008-50da-4f6b-b709-7dfcfd91d93d.jpg)
@@ -86,5 +86,26 @@ I have already spent 1500+ hours learning and improving the necessary proficienc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/denis-bondarenko-pl)
 
 [![codeWars](https://www.codewars.com/users/ExIxIxS/badges/small?theme=light)](https://www.codewars.com/users/ExIxIxS)
+
+
+<!--
+### My technologies stack:
+
+![badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+RxJS,  Angular Material, Bootstrap, GIT, Chrome DevTools, Figma, Visual Studio, Code, Markdown
+-->
+
 
 
