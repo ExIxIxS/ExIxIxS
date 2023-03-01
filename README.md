@@ -8,7 +8,7 @@
 ### Hi there 👋
 I am a rising Front-End developer with 10+ years engineering experience.
 
-I have already spent 1500+ working hours learning and improving the necessary proficiency skills.
+I have already spent 1500+ hours learning and improving the necessary proficiency skills.
 
 ### Explore my projects from this repository:
 
@@ -82,6 +82,9 @@ I have already spent 1500+ working hours learning and improving the necessary pr
   | Essential and powerful JS Core exercises with my own solutions | --- | [JS Core 101](https://github.com/ExIxIxS/core-js-101/tree/develop) | JavaScript |
 </details>
 
-### My additional activities:
-![codeWars](https://www.codewars.com/users/ExIxIxS/badges/large?theme=light)
+### My other activities:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/denis-bondarenko-pl)
+
+[![codeWars](https://www.codewars.com/users/ExIxIxS/badges/small?theme=light)](https://www.codewars.com/users/ExIxIxS)
+
 
