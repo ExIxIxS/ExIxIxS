@@ -8,8 +8,6 @@
 ### Hi there 👋
 I am a rising Front-End developer with 10+ years engineering experience.
 
-I have already spent 1500+ hours learning and improving the necessary proficiency skills.
-
 ### Explore my projects from this repository:
 
 <details><summary>Project Management Application</summary>
