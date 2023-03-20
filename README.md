@@ -6,7 +6,7 @@
 ## Front-End Developer
 
 ### Hi there 👋
-I am a rising Front-End developer with 10+ years engineering experience.
+I am an active Front-End developer with 10+ years engineering experience.
 
 ### Explore my projects from this repository:
 
