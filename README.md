@@ -15,8 +15,6 @@ I am an active Front-End developer with 10+ years engineering experience.
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
   | Project Management application with advanced localization and interface customization options | [PMA NG App](https://exixixs.github.io/pma/) | [PMA NG App](https://github.com/ExIxIxS/PMA_FrontEnd) | Angular, TypeScript, RxJS, Angular material, REST API, HTML5, SASS, Karma |
-
-  ![Screenshot 2023-02-28 175347](https://user-images.githubusercontent.com/106703414/221922652-c2ea5ea1-ffb4-4601-8bd5-7388490c94f7.jpg)
   ![Screenshot 2023-02-25 153838](https://user-images.githubusercontent.com/106703414/221362861-66f7d008-50da-4f6b-b709-7dfcfd91d93d.jpg)
 
 </details>
