@@ -76,7 +76,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Essential and powerful JS Core exercises with my own solutions | --- | [JS Core 101](https://github.com/ExIxIxS/core-js-101/tree/develop) | JavaScript |
+  | Essential and powerful JS Core exercises with my own solutions | --- | [JS Core 101](https://github.com/ExIxIxS/core-js-101) | JavaScript |
 </details>
 
 ### My other activities:
