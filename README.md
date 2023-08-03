@@ -9,6 +9,17 @@ I am an active Front-End developer with 10+ years engineering experience.
 
 ### Explore my projects from this repository:
 
+<details><summary>Dynamic interactive layout</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | React application that will recursively render any cross-elements interactive layout based on provided from a JSON-server definition that consists of known elements types | localhost deploy only because of JSON-server |  [React Dynamic Layout](https://github.com/ExIxIxS/react-dynamic-layout) | React, TypeScript, Redux + Redux Toolkit, JSON-server, HTML5, CSS3 |
+
+![image](https://github.com/ExIxIxS/ExIxIxS/assets/106703414/263a6b50-260c-487e-b688-63cc591b5991)
+
+</details>
+
 <details><summary>Project Management Application</summary>
   <br>
 
