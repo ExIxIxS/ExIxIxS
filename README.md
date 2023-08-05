@@ -36,7 +36,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Project Management application with advanced localization and interface customization options | [PMA NG App](https://exixixs.github.io/pma/) | [PMA NG App](https://github.com/ExIxIxS/PMA_FrontEnd) | Angular, TypeScript, RxJS, Angular material, REST API, HTML5, SASS, Karma |
+  | Angular project management application with advanced localization and interface customization options | [PMA NG App](https://exixixs.github.io/pma/) | [PMA NG App](https://github.com/ExIxIxS/PMA_FrontEnd) | Angular, TypeScript, RxJS, Angular material, REST API, HTML5, SASS, Karma |
 
   ![Screenshot 2023-02-25 153838](https://user-images.githubusercontent.com/106703414/221362861-66f7d008-50da-4f6b-b709-7dfcfd91d93d.jpg)
 
@@ -47,7 +47,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | News API app with original style | localhost deploy only because of API key license | [News API](https://github.com/ExIxIxS/TS_News_API) | TypeScript, WebPack, HTML5, CSS |
+  | TypeScript News API app with original style | localhost deploy only because of API key license | [News API](https://github.com/ExIxIxS/TS_News_API) | TypeScript, WebPack, HTML5, CSS |
 
   ![image](https://user-images.githubusercontent.com/106703414/200328484-abbcb005-d323-49e1-98b4-50dfa6f29aad.png)
 </details>
@@ -57,7 +57,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | All-ages friendly app with interactive learning modes and statistic |  [English for kids](https://exixixs.github.io/english_for_kids_app/) | [English for kids](https://github.com/ExIxIxS/english_for_kids) | JavaScript, WebPack, HTML5, CSS |
+  | All-ages friendly VanilaJS application  with interactive learning modes and statistic |  [English for kids](https://exixixs.github.io/english_for_kids_app/) | [English for kids](https://github.com/ExIxIxS/english_for_kids) | JavaScript, WebPack, HTML5, CSS |
 
   ![Screenshot 2022-10-17 141612-02](https://user-images.githubusercontent.com/106703414/196179615-5544872f-47b5-4ab6-9533-5a604978bb8b.jpg)
   
@@ -68,7 +68,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Simple and elegant shop application |  [Book MooD](exixixs.github.io/book_shop/pages/main/index.html) | [Book MooD](https://github.com/ExIxIxS/book_shop) | JavaScript, HTML5, CSS |
+  | Simple and elegant shop VanilaJS application |  [Book MooD](exixixs.github.io/book_shop/pages/main/index.html) | [Book MooD](https://github.com/ExIxIxS/book_shop) | JavaScript, HTML5, CSS |
 
   ![Screenshot 2023-02-28 185403](https://user-images.githubusercontent.com/106703414/221940170-af8c1e14-37e5-45b9-9452-a992d0308c0a.jpg)
 
@@ -79,7 +79,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Cozy application with adaptive layot implemented in strict accordance with the designer's Figma layout  |  [Shelter](https://exixixs.github.io/shelter/pages/main/) | [Shelter](https://github.com/ExIxIxS/shelter) | Figma, JavaScript, HTML5, CSS |
+  | Cozy VanilaJS application with adaptive layot implemented in strict accordance with the designer's Figma layout  |  [Shelter](https://exixixs.github.io/shelter/pages/main/) | [Shelter](https://github.com/ExIxIxS/shelter) | Figma, JavaScript, HTML5, CSS |
 
   ![Screenshot 2023-02-28 190742](https://user-images.githubusercontent.com/106703414/221941778-9ae91092-c4df-4aee-8451-2c8930a45d64.jpg)
 </details>
@@ -100,7 +100,14 @@ I am an active Front-End developer with 10+ years engineering experience.
   | Essential and powerful JS Core exercises with my own solutions | --- | [JS Core 101](https://github.com/ExIxIxS/core-js-101) | JavaScript |
 </details>
 
-### My technologies stack:
+### My other activities:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/denis-bondarenko-pl)
+
+[![codeWars](https://www.codewars.com/users/ExIxIxS/badges/small?theme=light)](https://www.codewars.com/users/ExIxIxS)
+
+__________________________________
+
+### My current technologies stack:
   | Description | Technologies |
   | :---: | :---: |
   | Front-End basis | ![badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) BEM, RWD, Markdown |
@@ -111,13 +118,3 @@ I am an active Front-End developer with 10+ years engineering experience.
   | Communication | HTTP, HTTPS, REST, WS, ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
   | DataBases | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
   | Additional tools | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) Schema ST4, Corel Draw, XMetal Author, Smarteam, Google Docs |
-
-### My other activities:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/denis-bondarenko-pl)
-
-[![codeWars](https://www.codewars.com/users/ExIxIxS/badges/small?theme=light)](https://www.codewars.com/users/ExIxIxS)
-
-
-
-
-
