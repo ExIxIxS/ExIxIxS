@@ -14,7 +14,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | React application that is a playground/IDE for StarWars GraphQL API requests. The project was created by collaboration in a team of 3 developers: [Demo Video](https://www.youtube.com/watch?v=DMVelvvaQA8) | [StarWars GraphQL](https://rsschool-graphiql.netlify.app) |  [React Dynamic Layout](https://github.com/ExIxIxS/react-graphql-editor) | React, Redux + Redux toolkit, Codemirror, Mui, Firebase, i18next, Sass, GraphQl, Vite, RDW |
+  | React application that is a playground/IDE for StarWars GraphQL API requests. The project was created by collaboration in a team of 3 developers: [Demo Video](https://www.youtube.com/watch?v=DMVelvvaQA8) | [StarWars GraphQL](https://rsschool-graphiql.netlify.app) |  [StarWars GraphQL](https://github.com/ExIxIxS/react-graphql-editor) | React, Redux + Redux toolkit, Codemirror, Mui, Firebase, i18next, Sass, GraphQl, Vite, RDW |
 
 ![image](https://github.com/ExIxIxS/ExIxIxS/assets/106703414/989c3ef9-e30d-41b3-afe1-25f2d7b05b62)
 
