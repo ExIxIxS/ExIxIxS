@@ -52,12 +52,23 @@ I am an active Front-End developer with 10+ years engineering experience.
   ![image](https://user-images.githubusercontent.com/106703414/200328484-abbcb005-d323-49e1-98b4-50dfa6f29aad.png)
 </details>
 
+<details><summary>Note board</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | VanillaJS app based on advanced class components approach |  |  | JavaScript, HTML5, SASS, BEM |
+
+  ![image](https://github.com/ExIxIxS/ExIxIxS/assets/106703414/c7c4ee76-d64c-4406-be78-6bfc7149fff5)
+
+</details>
+
 <details><summary>English for kids</summary>
   <br>
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | All-ages friendly VanilaJS application  with interactive learning modes and statistic |  [English for kids](https://exixixs.github.io/english_for_kids_app/) | [English for kids](https://github.com/ExIxIxS/english_for_kids) | JavaScript, WebPack, HTML5, CSS |
+  | All-ages friendly VanillaJS application  with interactive learning modes and statistic |  [English for kids](https://exixixs.github.io/english_for_kids_app/) | [English for kids](https://github.com/ExIxIxS/english_for_kids) | JavaScript, WebPack, HTML5, CSS |
 
   ![Screenshot 2022-10-17 141612-02](https://user-images.githubusercontent.com/106703414/196179615-5544872f-47b5-4ab6-9533-5a604978bb8b.jpg)
   
@@ -68,7 +79,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Simple and elegant shop VanilaJS application |  [Book MooD](exixixs.github.io/book_shop/pages/main/index.html) | [Book MooD](https://github.com/ExIxIxS/book_shop) | JavaScript, HTML5, CSS |
+  | Simple and elegant shop VanillaJS application |  [Book MooD](exixixs.github.io/book_shop/pages/main/index.html) | [Book MooD](https://github.com/ExIxIxS/book_shop) | JavaScript, HTML5, CSS |
 
   ![Screenshot 2023-02-28 185403](https://user-images.githubusercontent.com/106703414/221940170-af8c1e14-37e5-45b9-9452-a992d0308c0a.jpg)
 
@@ -79,7 +90,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Cozy VanilaJS application with adaptive layot implemented in strict accordance with the designer's Figma layout  |  [Shelter](https://exixixs.github.io/shelter/pages/main/) | [Shelter](https://github.com/ExIxIxS/shelter) | Figma, JavaScript, HTML5, CSS |
+  | Cozy VanillaJS application with adaptive layot implemented in strict accordance with the designer's Figma layout  |  [Shelter](https://exixixs.github.io/shelter/pages/main/) | [Shelter](https://github.com/ExIxIxS/shelter) | Figma, JavaScript, HTML5, CSS |
 
   ![Screenshot 2023-02-28 190742](https://user-images.githubusercontent.com/106703414/221941778-9ae91092-c4df-4aee-8451-2c8930a45d64.jpg)
 </details>
