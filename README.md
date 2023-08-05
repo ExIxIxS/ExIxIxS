@@ -79,7 +79,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Simple and elegant shop VanillaJS application |  [Book MooD](exixixs.github.io/book_shop/pages/main/index.html) | [Book MooD](https://github.com/ExIxIxS/book_shop) | JavaScript, HTML5, CSS |
+  | Simple and elegant shop VanillaJS application |  [Book MooD](https://exixixs.github.io/book_shop/pages/main/) | [Book MooD](https://github.com/ExIxIxS/book_shop) | JavaScript, HTML5, CSS |
 
   ![Screenshot 2023-02-28 185403](https://user-images.githubusercontent.com/106703414/221940170-af8c1e14-37e5-45b9-9452-a992d0308c0a.jpg)
 
