@@ -52,12 +52,12 @@ I am an active Front-End developer with 10+ years engineering experience.
   ![image](https://user-images.githubusercontent.com/106703414/200328484-abbcb005-d323-49e1-98b4-50dfa6f29aad.png)
 </details>
 
-<details><summary>Note board</summary>
+<details><summary>Notes board</summary>
   <br>
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | VanillaJS app based on advanced class components approach |  |  | JavaScript, HTML5, SASS, BEM |
+  | VanillaJS app based on advanced class components approach |  |  | JavaScript, HTML5, SASS, BEM, RDW |
 
   ![image](https://github.com/ExIxIxS/ExIxIxS/assets/106703414/c7c4ee76-d64c-4406-be78-6bfc7149fff5)
 
