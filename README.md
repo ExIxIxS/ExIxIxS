@@ -14,7 +14,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | React application that is a playground/IDE for StarWars GraphQL API requests. The project was created by collaboration in a team of 3 developers: [Demo Video](https://www.youtube.com/watch?v=DMVelvvaQA8) | [StarWars GraphQL](https://rsschool-graphiql.netlify.app) |  [StarWars GraphQL](https://github.com/ExIxIxS/react-graphql-editor) | React, TypeScript, Redux + Redux toolkit, Codemirror, Mui, Firebase, i18next, Sass, GraphQl, Vite, RDW |
+  | React application that is a playground/IDE for StarWars GraphQL API requests. The project was created of collaboration of a 3 developers team: [Demo Video](https://www.youtube.com/watch?v=DMVelvvaQA8) | [StarWars GraphQL](https://rsschool-graphiql.netlify.app) |  [StarWars GraphQL](https://github.com/ExIxIxS/react-graphql-editor) | React, TypeScript, Redux + Redux toolkit, Codemirror, Mui, Firebase, i18next, Sass, GraphQl, Vite, RDW |
 
 ![image](https://github.com/ExIxIxS/ExIxIxS/assets/106703414/989c3ef9-e30d-41b3-afe1-25f2d7b05b62)
 
@@ -57,7 +57,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | VanillaJS app based on advanced class components approach |  |  | JavaScript, HTML5, SASS, BEM, RDW |
+  | VanillaJS app based on advanced class components approach | [Notes board](https://exixixs.github.io/notes_board/) |  [Notes board](https://github.com/ExIxIxS/notes_board) | JavaScript, HTML5, SASS, BEM, RDW |
 
   ![image](https://github.com/ExIxIxS/ExIxIxS/assets/106703414/c7c4ee76-d64c-4406-be78-6bfc7149fff5)
 
