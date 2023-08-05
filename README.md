@@ -9,6 +9,17 @@ I am an active Front-End developer with 10+ years engineering experience.
 
 ### Explore my projects from this repository:
 
+<details><summary>GraphQl Editor</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | React application that is a playground/IDE for StarWars GraphQL API requests. The project was created by collaboration in a team of 3 developers: [Demo Video](https://www.youtube.com/watch?v=DMVelvvaQA8) | [StarWars GraphQL](https://rsschool-graphiql.netlify.app) |  [React Dynamic Layout](https://github.com/ExIxIxS/react-graphql-editor) | React, Redux + Redux toolkit, Codemirror, Mui, Firebase, i18next, Sass, GraphQl, Vite, RDW |
+
+![image](https://github.com/ExIxIxS/ExIxIxS/assets/106703414/90f85525-c0d0-4f48-9d6f-b84fd64b247e)
+
+</details>
+
 <details><summary>Dynamic interactive layout</summary>
   <br>
 
@@ -98,6 +109,7 @@ I am an active Front-End developer with 10+ years engineering experience.
   | Tools | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) Chrome DevTools |
   | Automated  testing | ![badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) Karma, Vitest |
   | Communication | HTTP, HTTPS, REST, WS, ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
+  | DataBases | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
   | Additional tools | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) Schema ST4, Corel Draw, XMetal Author, Smarteam, Google Docs |
 
 ### My other activities:
