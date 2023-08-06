@@ -36,7 +36,7 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Angular project management application with advanced localization, interface customization options and interactive features | [PMA NG App](https://exixixs.github.io/pma/) | [PMA NG App](https://github.com/ExIxIxS/PMA_FrontEnd) | Angular, TypeScript, RxJS, Angular material, REST API, HTML5, SASS, Karma |
+  | Angular project management application with advanced localization, interface customization options and interactive features | temporarily not available | [PMA NG App](https://github.com/ExIxIxS/PMA_FrontEnd) | Angular, TypeScript, RxJS, Angular material, REST API, HTML5, SASS, Karma |
 
   ![Screenshot 2023-02-25 153838](https://user-images.githubusercontent.com/106703414/221362861-66f7d008-50da-4f6b-b709-7dfcfd91d93d.jpg)
 
@@ -93,6 +93,15 @@ I am an active Front-End developer with 10+ years engineering experience.
   | Cozy VanillaJS application with adaptive layot implemented in strict accordance with the designer's Figma layout  |  [Shelter](https://exixixs.github.io/shelter/pages/main/) | [Shelter](https://github.com/ExIxIxS/shelter) | Figma, JavaScript, HTML5, CSS |
 
   ![Screenshot 2023-02-28 190742](https://user-images.githubusercontent.com/106703414/221941778-9ae91092-c4df-4aee-8451-2c8930a45d64.jpg)
+</details>
+
+<details><summary>Node.js File Manager</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | Node.js File Manager application with basic file operations and uses modern Node.js features | - |  [File Manager](https://github.com/ExIxIxS/nodejs_file_manager)  | Node.js |
+
 </details>
 
 <details><summary>Unit tests</summary>
