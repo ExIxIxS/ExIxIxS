@@ -90,9 +90,18 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Cozy VanillaJS application with adaptive layot implemented in strict accordance with the designer's Figma layout  |  [Shelter](https://exixixs.github.io/shelter/pages/main/) | [Shelter](https://github.com/ExIxIxS/shelter) | Figma, JavaScript, HTML5, CSS |
+  | Cozy VanillaJS application with adaptive layot implemented in strict accordance with the designer's Figma layout  | [Shelter](https://exixixs.github.io/shelter/pages/main/) | [Shelter](https://github.com/ExIxIxS/shelter) | Figma, JavaScript, HTML5, CSS |
 
   ![Screenshot 2023-02-28 190742](https://user-images.githubusercontent.com/106703414/221941778-9ae91092-c4df-4aee-8451-2c8930a45d64.jpg)
+</details>
+
+<details><summary>Node.js CRUD API</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | Node.js simple CRUD API application uses modern Node.js features | --- | [CRUD API](https://github.com/ExIxIxS/NodeJS-CRUD-API) | Node.js, REST API |
+
 </details>
 
 <details><summary>Node.js File Manager</summary>
@@ -100,7 +109,16 @@ I am an active Front-End developer with 10+ years engineering experience.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Node.js File Manager application with basic file operations and uses modern Node.js features | - |  [File Manager](https://github.com/ExIxIxS/nodejs_file_manager)  | Node.js |
+  | Node.js File Manager application with basic file operations and uses modern Node.js features | --- | [File Manager](https://github.com/ExIxIxS/nodejs_file_manager) | Node.js |
+
+</details>
+
+<details><summary>Node.js basic testing</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | My own implementation different tests for provided ready-to-use Node.js modules | --- | [Basic testing](https://github.com/ExIxIxS/nodeJS-basic-testing) | Node.js, Jest |
 
 </details>
 
