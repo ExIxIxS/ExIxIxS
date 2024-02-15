@@ -138,6 +138,12 @@ I am an active Front-End developer.
   | Essential and powerful JS Core exercises with my own solutions | --- | [JS Core 101](https://github.com/ExIxIxS/core-js-101) | JavaScript |
 </details>
 
+### My publications:
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | Fresh and full implementation of React class component lifecycle diagram | [RCC lifecycle](https://exixixs.github.io/react_component_lifecycle/) | [RCC lifecycle](https://github.com/ExIxIxS/react_component_lifecycle) | React |
+
 ### My other activities:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/denis-bondarenko-pl)
 
