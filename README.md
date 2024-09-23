@@ -2,12 +2,13 @@
 **ExIxIxS/ExIxIxS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Denis Bondarenko
-## Front-End | Full-Stack Developer
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=000000&width=450&height=60&lines=Front-End+developer;Full-Stack+developer)](https://git.io/typing-svg)
 
 ### Hi there 👋
 I am an active developer.
 
 ### Explore my projects from this repository:
+
 
 <details><summary>Real Web Dev</summary>
   <br>
@@ -175,3 +176,4 @@ __________________________________
   | Communication | HTTP, HTTPS, REST, WS, ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
   | DataBases | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
   | Additional tools | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) Schema ST4, Corel Draw, XMetal Author, Smarteam, Google Docs |
+
