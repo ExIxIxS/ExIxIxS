@@ -2,12 +2,23 @@
 **ExIxIxS/ExIxIxS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Denis Bondarenko
-## Front-End Developer
+## Front-End | Full-Stack Developer
 
 ### Hi there 👋
-I am an active Front-End developer.
+I am an active developer.
 
 ### Explore my projects from this repository:
+
+<details><summary>Real Web Dev</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | An educational full-stack application focused on Front-end development, with an emphasis on practical aspects. | [Real Web Dev](https://real-web-dev.vercel.app/) |  not public | TypeScript, React, Redux, React Hook Form, Yap, Axios, Ramda, Date-fns, Ag-grid, REST API, HTML5, Sass, MUI, CSS-in-JS, Markdown, Git, Githab, SonarQube,  Jira, Figma, Jest, React testing library, RDW |
+
+![image](https://github.com/ExIxIxS/ExIxIxS/assets/106703414/989c3ef9-e30d-41b3-afe1-25f2d7b05b62)
+
+</details>
 
 <details><summary>GraphQl Editor</summary>
   <br>
