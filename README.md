@@ -16,8 +16,8 @@ I am an active developer.
   | :---: | :---: | :---: | :---: |
   | An educational full-stack application focused on Front-end development, with an emphasis on practical aspects. | [Real Web Dev](https://real-web-dev.vercel.app/) |  not public | TypeScript, React, Redux, React Hook Form, Yap, Axios, Ramda, Date-fns, Ag-grid, REST API, HTML5, Sass, MUI, CSS-in-JS, Markdown, Git, Githab, SonarQube,  Jira, Figma, Jest, React testing library, RDW |
 
-![image](https://github.com/user-attachments/assets/ca4aa693-0f83-4aa4-be30-3882d3760633)
-)
+![image](https://github.com/user-attachments/assets/77314f28-e647-4baa-a31c-75518a48d68a)
+
 
 </details>
 
