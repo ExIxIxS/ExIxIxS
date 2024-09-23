@@ -154,8 +154,6 @@ I am an active developer.
 
   | Description | Deployed app |
   | :---: | :---: |
-
-
   | An educational materials focused on practical aspects. |  [Real Web Dev](https://real-web-dev.vercel.app/)  | 
   | Fresh and full implementation of React class component lifecycle diagram | [RCC lifecycle](https://exixixs.github.io/react_component_lifecycle/) |
 
