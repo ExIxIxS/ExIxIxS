@@ -16,7 +16,8 @@ I am an active developer.
   | :---: | :---: | :---: | :---: |
   | An educational full-stack application focused on Front-end development, with an emphasis on practical aspects. | [Real Web Dev](https://real-web-dev.vercel.app/) |  not public | TypeScript, React, Redux, React Hook Form, Yap, Axios, Ramda, Date-fns, Ag-grid, REST API, HTML5, Sass, MUI, CSS-in-JS, Markdown, Git, Githab, SonarQube,  Jira, Figma, Jest, React testing library, RDW |
 
-![image](https://github.com/ExIxIxS/ExIxIxS/assets/106703414/989c3ef9-e30d-41b3-afe1-25f2d7b05b62)
+![image](https://github.com/user-attachments/assets/ca4aa693-0f83-4aa4-be30-3882d3760633)
+)
 
 </details>
 
@@ -151,9 +152,12 @@ I am an active developer.
 
 ### My publications:
 
-  | Description | Deployed app | Repository | Technologies stack |
-  | :---: | :---: | :---: | :---: |
-  | Fresh and full implementation of React class component lifecycle diagram | [RCC lifecycle](https://exixixs.github.io/react_component_lifecycle/) | [RCC lifecycle](https://github.com/ExIxIxS/react_component_lifecycle) | React |
+  | Description | Deployed app |
+  | :---: | :---: |
+
+
+  | An educational materials focused on practical aspects. |  [Real Web Dev](https://real-web-dev.vercel.app/)  | 
+  | Fresh and full implementation of React class component lifecycle diagram | [RCC lifecycle](https://exixixs.github.io/react_component_lifecycle/) |
 
 ### My other activities:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/denis-bondarenko-pl)
