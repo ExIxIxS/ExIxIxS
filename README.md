@@ -155,8 +155,8 @@ I am an active developer.
 
   | Description | Deployed app |
   | :---: | :---: |
-  | An educational materials focused on practical aspects. |  [Real Web Dev](https://real-web-dev.vercel.app/)  | 
-  | Fresh and full implementation of React class component lifecycle diagram | [RCC lifecycle](https://exixixs.github.io/react_component_lifecycle/) |
+  | Educational materials focused on practical aspects. |  [Real Web Dev](https://real-web-dev.vercel.app/)  | 
+  | A complete and updated implementation of the React class component lifecycle diagram. | [RCC lifecycle](https://exixixs.github.io/react_component_lifecycle/) |
 
 ### My other activities:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/denis-bondarenko-pl)
