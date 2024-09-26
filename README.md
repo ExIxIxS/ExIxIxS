@@ -2,7 +2,7 @@
 **ExIxIxS/ExIxIxS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Denis Bondarenko
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=28&pause=1000&color=000000&vCenter=true&width=450&height=40&lines=Front-End+developer;Full-Stack+developer;Technical-writer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=28&pause=1000&color=000000&vCenter=true&width=450&height=40&lines=Front-End+developer;Full-Stack+developer;Technical+writer)](https://github.com/ExIxIxS)
 
 ### Hi there 👋
 I am an active developer.
