@@ -26,7 +26,7 @@ I am an active developer.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | A fully responsive weather dashboard page that dynamically fetches and displays real-time weather data from the OpenWeatherMap API, including temperature, humidity, pressure, and wind speed, with an intuitive user interface and support for city-based searches. | [WDashboard](https://weather-dashboard-exixixs.vercel.app/) |  [WDashboard](https://github.com/ExIxIxS/weather_dashboard) | React, TypeScript, ChartJs,  MUI, CSS-in-JS, Vite, REST API, HTML5, Jest, React testing library, RDW |
+  | A fully responsive weather dashboard page that dynamically fetches and displays real-time weather data from the OpenWeatherMap API, including temperature, humidity, pressure, and wind speed, with an intuitive user interface and support for city-based searches. | [WDashboard](https://weather-dashboard-exixixs.vercel.app/) |  [WDashboard](https://github.com/ExIxIxS/weather_dashboard) | React, TypeScript, Redux + Redux Toolkit, ChartJs,  MUI, CSS-in-JS, Vite, REST API, HTML5, Jest, React testing library, RDW |
   
 ![dashboard_design](https://github.com/user-attachments/assets/4dd2b4a6-4a93-487b-b5d3-456ed04011d1)
 
@@ -37,7 +37,7 @@ I am an active developer.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | A prototype of a healthcare dashboard page featuring interactive data visualizations, implemented in strict accordance with the designer's layout.  | [WDashboard](https://health-care-dashboard-exixixs.vercel.app/) |  not public | React, TypeScript, Redux + Redux Toolkit, ChartJs, Vite, REST API, HTML5, SCSS|
+  | A prototype of a healthcare dashboard page featuring interactive data visualizations, implemented in strict accordance with the designer's layout.  | [WDashboard](https://health-care-dashboard-exixixs.vercel.app/) |  not public | React, TypeScript, ChartJs, Vite, REST API, HTML5, SCSS|
   
 ![screenshot_layout](https://github.com/user-attachments/assets/64ba8eb7-569a-45a9-b892-7eaa255b4a38)
 
