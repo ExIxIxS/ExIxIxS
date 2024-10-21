@@ -37,7 +37,7 @@ I am an active developer.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | A prototype of a healthcare dashboard page featuring interactive data visualizations, implemented in strict accordance with the designer's layout.  | [WDashboard](https://health-care-dashboard-exixixs.vercel.app/) |  not public | React, TypeScript, ChartJs, Vite, REST API, HTML5, SCSS|
+  | A prototype of a healthcare dashboard page featuring interactive data visualizations, implemented in strict accordance with the designer's layout.  | [WDashboard](https://health-care-dashboard-exixixs.vercel.app/) |  not public | React, TypeScript, Redux + Redux Toolkit, ChartJs, Vite, REST API, HTML5, SCSS|
   
 ![screenshot_layout](https://github.com/user-attachments/assets/64ba8eb7-569a-45a9-b892-7eaa255b4a38)
 
