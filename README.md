@@ -15,9 +15,22 @@ I am an active developer.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | An educational full-stack application focused on Front-end development, with an emphasis on practical aspects. | [Real Web Dev](https://real-web-dev.vercel.app/) |  not public | Next.Js, Node.Js, React, TypeScript, Ramda, Date-fns, React-markdown, MongoDB, mongoose,   MongoDBCompass, framer-motion, REST API, HTML5, MUI, CSS-in-JS, Markdown, Git, Githab, Obsidian, Jest, React testing library, RDW |
+  | An educational full-stack application focused on Front-end development, with an emphasis on practical aspects. | [Real Web Dev](https://real-web-dev.vercel.app/) |  not public | Next.Js, Node.Js, React, TypeScript, Ramda, Date-fns, React-markdown, MongoDB, mongoose,   MongoDBCompass, framer-motion, REST API, HTML5, MUI, CSS-in-JS, Markdown, Obsidian, Jest, React testing library, RDW |
   
 ![image](https://github.com/user-attachments/assets/27dc1c53-2964-46d1-9992-9ece710c761b)
+
+
+</details>
+
+<details><summary>Weather Dashboard</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | A fully responsive weather dashboard page that dynamically fetches and displays real-time weather data from the OpenWeatherMap API, including temperature, humidity, pressure, and wind speed, with an intuitive user interface and support for city-based searches. | [WDashboard](https://weather-dashboard-exixixs.vercel.app/) |  [WDashboard](https://github.com/ExIxIxS/weather_dashboard) | React, TypeScript, ChartJs,  MUI, CSS-in-JS, Vite, REST API, HTML5, Jest, React testing library, RDW |
+  
+![dashboard_design](https://github.com/user-attachments/assets/4dd2b4a6-4a93-487b-b5d3-456ed04011d1)
+
 
 </details>
 
